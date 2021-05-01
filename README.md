@@ -1,3 +1,7 @@
+<h3>url for this project is</h3>
+https://angular-recipe-book-ced25.firebaseapp.com/auth
+<hr>
+<hr>
 <img width="1440" alt="img-1" src="https://user-images.githubusercontent.com/43258370/116773389-c1d6b700-aa72-11eb-81bf-ee172dfd83f4.png">
 <img width="1440" alt="img-2" src="https://user-images.githubusercontent.com/43258370/116773391-c602d480-aa72-11eb-805b-a38c4246a9ce.png">
 <img width="1440" alt="img-3" src="https://user-images.githubusercontent.com/43258370/116773392-c7340180-aa72-11eb-84ef-554b662e4762.png">
